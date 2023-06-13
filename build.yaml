@@ -13,4 +13,7 @@
 #
 ---
 include:
-  - board: nice60
+  - board: cyber60_rev_a
+  - board: cyber60_rev_b
+  - board: cyber60_rev_c
+  - board: cyber60_rev_d
